@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W64INplzNiKv3hFA3+dC+/i/RC9khVzlFyYVpIPaHuI3SOfud/ta+iiWYss/VAjbqa3Ee8lj8G7vZLhkxr6OxA==",
+  "success": true,
+  "projectFilePath": "D:\\Документы\\Flash Drive\\FlashDrive.Parser\\FlashDrive.Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ann\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
+    "C:\\Users\\Ann\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ann\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
